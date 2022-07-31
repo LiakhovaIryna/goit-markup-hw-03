@@ -21,8 +21,7 @@ background-color: var(--main-background-color);
 font-family: 'Roboto', sans-serif;
 }
 
-.container{
-outline: 1px solid tomato;    
+.container{   
 width: 1200px;
 padding-top: 94px;
 padding-bottom: 94px;
